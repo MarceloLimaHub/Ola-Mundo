@@ -27,3 +27,13 @@ Lista de tarefas:
 - [ ] Estudar mais
 - [ ] Estudar e vencer
 
+### Tabelas:
+
+Num | Nome | Nota
+--- | --- | ---
+1 | Marcelo | 10,0
+2 | Ninguém | 0,0
+
+Fim da tabela
+
+[Acesse meu  GitHub](https://github.com/MarceloLimaHub)
