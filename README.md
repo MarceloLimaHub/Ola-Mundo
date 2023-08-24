@@ -42,6 +42,6 @@ Fim da tabela
 Marcando um texto maior
 ```
 
-Está gostando? :vulcan_salute
+Está gostando? :vulcan_salute:
 
 [Acesse meu  GitHub](https://github.com/MarceloLimaHub)
