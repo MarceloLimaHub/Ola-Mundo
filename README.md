@@ -23,7 +23,7 @@ Lista demarcada:
 * Item 3
 
 Lista de tarefas:
--[x] Estudar
--[] Estudar mais
--[] Estudar e vencer
+- [x] Estudar
+- [] Estudar mais
+- [] Estudar e vencer
 
