@@ -24,6 +24,6 @@ Lista demarcada:
 
 Lista de tarefas:
 - [x] Estudar
-- [] Estudar mais
-- [] Estudar e vencer
+- [ ] Estudar mais
+- [ ] Estudar e vencer
 
