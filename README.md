@@ -36,4 +36,10 @@ Num | Nome | Nota
 
 Fim da tabela
 
+`Fazendo marcação de texto`
+
+```
+Marcando um texto maior
+```
+
 [Acesse meu  GitHub](https://github.com/MarceloLimaHub)
